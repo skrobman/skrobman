@@ -4,7 +4,7 @@
     I'm a passionate <b>React Native Developer</b> with a love for building modern, dynamic, and user-friendly mobile applications.
   </p>
   <ul>
-    <li>💻 I'm currently working on <a href="https://github.com/skrobman/Ryde">Ryde</a></li>
+    <li>💻 I'm currently working on <a href="https://github.com/skrobman/Entrybit">Entrybit</a></li>
     <li>🌐 Connect with me on <a href="https://linkedin.com/in/mikhail-skrobat-60a996272">LinkedIn</a></li>
     <li>✉️ Want to work with me? Reach me at <a href="mailto:mikhailskrobat@gmail.com">email</a></li>
   </ul>
