@@ -1,7 +1,7 @@
 <div>
   <h1>👋 Hello there! I'm Mikhail Skrobat</h1>
   <p>
-  I’m a <b>Backend Developer</b> passionate about crafting scalable APIs and powering smooth user experiences.
+  I’m a <b>Software Developer</b> with a focus on backend development, passionate about building scalable APIs and delivering seamless user experiences.
   </p>
   <ul>
 <!--     <li>💻 I'm currently working on <a href="https://github.com/skrobman/Entrybit">Entrybit</a></li> -->
@@ -28,6 +28,14 @@
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" /><br />
         <b>TypeScript</b>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/25181517/117201552-12407280-adec-11eb-89b4-5ddf8fab7d6c.png" width="50" alt="React logo"/><br />
+        <b>React</b>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="50" alt="Spring logo"/><br />
+        <b>Spring Frameworks</b>
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" /><br />
