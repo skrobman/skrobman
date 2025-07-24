@@ -18,6 +18,10 @@
   <table>
     <tr>
       <td align="center">
+        <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50" alt="Java logo"/><br />
+        <b>Java</b>
+      </td>
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" /><br />
         <b>JavaScript</b>
       </td>
