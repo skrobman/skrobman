@@ -30,10 +30,6 @@
         <b>TypeScript</b>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/25181517/117201552-12407280-adec-11eb-89b4-5ddf8fab7d6c.png](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" width="50" alt="React logo"/><br />
-        <b>React</b>
-      </td>
-      <td align="center">
         <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="50" alt="Spring logo"/><br />
         <b>Spring Frameworks</b>
       </td>
