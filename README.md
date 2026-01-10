@@ -18,6 +18,10 @@
   <table>
     <tr>
       <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python logo"/><br />
+        <b>Python</b>
+      </td>
+      <td align="center">
         <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50" alt="Java logo"/><br />
         <b>Java</b>
       </td>
@@ -28,6 +32,10 @@
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" /><br />
         <b>TypeScript</b>
+      </td>
+      <td align="center">
+        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" alt="FastAPI logo"/><br />
+        <b>FastAPI</b>
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="50" alt="Spring logo"/><br />
